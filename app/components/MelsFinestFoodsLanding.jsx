@@ -315,7 +315,7 @@ export default function MelsFinestFoodsLanding() {
             ></div>
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="/mnt/user-data/uploads/Image_Parlour_Photography-26.jpg"
+                src="/Image_Parlour_Photography-26.jpg"
                 alt="Chef Mel - Founder of Mel's Finest Foods"
                 className="w-full h-auto object-cover"
               />
@@ -573,14 +573,14 @@ export default function MelsFinestFoodsLanding() {
             <div className="grid grid-cols-2 gap-4">
               <div className="rounded-3xl overflow-hidden shadow-xl">
                 <img
-                  src="/mnt/user-data/uploads/Image_Parlour_Photography-17.jpg"
+                  src="/Image_Parlour_Photography-17.jpg"
                   alt="Chef Mel preparing fresh ingredients"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 />
               </div>
               <div className="rounded-3xl overflow-hidden shadow-xl mt-12">
                 <img
-                  src="/mnt/user-data/uploads/Image_Parlour_Photography-2.jpg"
+                  src="/Image_Parlour_Photography-2.jpg"
                   alt="Chef Mel - Professional Portrait"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 />
